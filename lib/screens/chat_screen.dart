@@ -23,9 +23,9 @@ class _ChatScreenState extends State<ChatScreen> {
 
   // Replace with your API details
   final String apiUrl =
-      "https://generativelanguage.googleapis.com/v1beta/tunedModels/habitss-immadl22zo1r:generateContent";
+      "YOUR_API_URL";
   final String accessToken =
-      "ya29.a0AeDClZD4eXSIHt2wsRco1NTJMEM1-7996JuI_Q_Rn74imosyNiZ9z_EreKZjOoE6Ly7jBggsTdppwvl0CFk0Drt2FC614SaquYkkaLbolnMwhW3c43tai86uV9fL-kwkWMqfodJg9og-npyO6Nsf1-AmBT-cjk9RhPvUvscxCQaCgYKAZASARISFQHGX2MiiYgHDTDvRiMfS4OGwnJAfw0177";
+      "YOUR_ACCESS_TOKEN";
 
   @override
   Widget build(BuildContext context) {
