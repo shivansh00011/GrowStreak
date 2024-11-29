@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292626767387",
+    "project_id": "growstreak",
+    "storage_bucket": "growstreak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292626767387:android:6904bf96e8699f2c2c22be",
+        "android_client_info": {
+          "package_name": "com.example.growstreak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lYGdKCbS1ptm3g3DwLVuTvhS8bVEP8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
