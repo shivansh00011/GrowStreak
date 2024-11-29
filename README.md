@@ -106,6 +106,14 @@ flutter run
 * **Firebase:** Backend for user authentication and Firestore for task management.
 * **Google Cloud Platform (GCP):** Fine-tuned Gemini model for AI responses.
 
+### Video
+
+  
+
+https://github.com/user-attachments/assets/3abc4909-f88e-4b11-8581-f4e83bfbb5f6
+
+
+
 ### Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix bugs.
